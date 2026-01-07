@@ -10,4 +10,4 @@ After that, just press enter and then choose how long you want your key to be, p
 Yes as with anything I release, it is **100%** safe. If someone is asking you to download or even buy it from them or any external source, don't as you are likely being scammed or redirected to something potentially harmful. **Please only download from this page!**
 
 # Should you use it?
-That all depends on you, however, do I **RECOMMEND** it? Yes, without a doubt I do.
+That all depends on you, however, do I **RECOMMEND** it? Yes, without a doubt.
