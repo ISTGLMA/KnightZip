@@ -53,7 +53,4 @@ If someone is asking you to download or buy it from any external source — don'
 That's up to you — but do I **recommend** it? Yes, without a doubt.
 
 <div align="center">
-
-Made by [ISTGLMA](https://github.com/ISTGLMA)
-
 </div>
