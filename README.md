@@ -2,7 +2,7 @@
 
 # KnightZip
 
-**Sleek, encrypted zipping — built for people who care about what they lock.**
+**Sleek, encrypted zipping — built for people who care about what they zip.**
 
 [![Version](https://img.shields.io/badge/version-1.0.1-CC2200?style=flat-square)](https://github.com/ISTGLMA/KnightZip)
 [![Platform](https://img.shields.io/badge/platform-Windows-0D0D0D?style=flat-square&logo=windows)](https://github.com/ISTGLMA/KnightZip)
